@@ -2,7 +2,7 @@
 /* ══════ SHARED API KEY — ضع مفتاح Groq المشترك هنا ══════ */
 /* ضع مفتاح Groq المشترك هنا — سيُستخدم لجميع المستخدمين */
 /* مثال: const SHARED_GROQ_KEY = 'gsk_xxxxxxxxxxxxxxxxxxxx'; */
-const SHARED_GROQ_KEY = ''; // ← ضع مفتاحك هنا
+const SHARED_GROQ_KEY = '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'; // ← ضع مفتاحك هنا
 
 let S = {
   currentDay:1, completedDays:[], calories:0, streak:0,
